@@ -1,12 +1,6 @@
 ## Hi, I’m Haley 👋
 
-Computer Science & Data Science student at the University of Sydney, interested in backend engineering, applied AI, ML systems, and product-focused software.
-
-I enjoy building projects that combine:
-- reliable backend systems
-- data/ML pipelines
-- real-world user interfaces
-- clean architecture and testing
+I am a Computer Science & Data Science student at the University of Sydney. My interest is building projects that combine reliable backend systems, data/ML pipelines, real-world user interfaces with clean architecture and testing. I'm Currently improving on backend/ML application development, system design and algorithmic problem solving.
 
 ### Featured Projects
 
@@ -27,8 +21,3 @@ Full-stack real-time chat app with React, Node.js, MongoDB Atlas, JWT authentica
 **Data/ML:** pandas, scikit-learn, PyTorch, model evaluation, data preprocessing  
 **Databases:** MongoDB Atlas, PostgreSQL  
 **Tools:** Git, GitHub Actions, Docker, Docker, Jenkins, CI/CD, Vercel
-
-### Currently improving
-- AI/LLM application development
-- backend system design
-- algorithmic problem solving
