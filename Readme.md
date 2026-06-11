@@ -4,16 +4,16 @@ I am a Computer Science & Data Science student at the University of Sydney. My i
 
 ### Featured Projects
 
-**FloodGuard**  
+🌊 **FloodGuard**  
 Flood-awareness prototype for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, and map-based visualisation.
 
-**Concurrent C Text Editor**  
+💙 **Concurrent C Text Editor**  
 Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronization with careful memory management.
 
-**FrensChatApp**  
+💬 **FrensChatApp**  
 Full-stack real-time chat app with React, Node.js, MongoDB Atlas, JWT authentication, and modular backend architecture.
 
-## Tech Stack
+## Tech Stack 💫
 
 **Languages:** Python, JavaScript, Java, C/C++, SQL  
 **Backend:** Node.js, Express, REST APIs, JWT authentication  
