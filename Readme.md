@@ -13,8 +13,8 @@ I am a Computer Science & Data Science student at the University of Sydney. My i
 ## Tech Stack 💫
 
 **Languages:** Python, JavaScript, Java, C/C++, SQL  
-**Backend:** Node.js, Express, REST APIs, JWT authentication, POSIX threads, IPC, FIFOs, concurrency, synchronisation, memory management   
-**Frontend/web:** React, Vite, HTML/CSS, Socket.io
-**Data/ML:** pandas, scikit-learn, PyTorch, R, model evaluation, data preprocessing  
+**Backend:** POSIX threads, IPC, FIFOs, concurrency, synchronisation, memory management     
+**Frontend/web:** React, Vite, Node.js, Express, REST APIs, JWT authentication, HTML/CSS, Socket.io   
+**Data/ML:** pandas, scikit-learn, PyTorch, R, model evaluation, data preprocessing    
 **Databases:** MongoDB Atlas, PostgreSQL  
 **Tools:** Git, GitHub, Docker, Jenkins, CI/CD, Vercel, Make, GCC, Gradle
