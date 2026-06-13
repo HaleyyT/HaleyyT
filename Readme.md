@@ -11,13 +11,13 @@ Flood-awareness prototype for GWS suburbs using local weather observations, rain
 Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronization with careful memory management.
 
 💬 **FrensChatApp**  
-Full-stack real-time chat app with React, Node.js, MongoDB Atlas, JWT authentication, and modular backend architecture.
+Full-stack real-time chat app with React, Node.js Socket.io, MongoDB Atlas, JWT authentication, and modular backend architecture.
 
 ## Tech Stack 💫
 
 **Languages:** Python, JavaScript, Java, C/C++, SQL  
 **Backend:** Node.js, Express, REST APIs, JWT authentication  
 **Frontend:** React, Vite, HTML/CSS  
-**Data/ML:** pandas, scikit-learn, PyTorch, model evaluation, data preprocessing  
+**Data/ML:** pandas, scikit-learn, PyTorch, R, model evaluation, data preprocessing  
 **Databases:** MongoDB Atlas, PostgreSQL  
-**Tools:** Git, GitHub Actions, Docker, Docker, Jenkins, CI/CD, Vercel
+**Tools:** Git, GitHub, Docker, Jenkins, CI/CD, Vercel
