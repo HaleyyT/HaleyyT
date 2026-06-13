@@ -6,7 +6,7 @@ I am a Computer Science & Data Science student at the University of Sydney. My i
 
 🌊 [**FloodGuard**](https://github.com/HaleyyT/FloodGuard): Flood-awareness prototype for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, risk-scoring logic and map-based visualisation.
 
-💙 [**Concurrent C Text Editor**](https://github.com/HaleyyT/text-editor): Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronization with careful memory management.
+💙 [**Concurrent C Text Editor**](https://github.com/HaleyyT/text-editor): Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronisation with careful memory management.
 
 💬 [**FrensChatApp**](https://github.com/HaleyyT/FrensChatApp): Full-stack real-time communication platform with React, Node.js Socket.io, MongoDB Atlas, JWT authentication, and modular backend architecture.
 
