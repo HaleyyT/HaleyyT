@@ -4,7 +4,7 @@ I am a Computer Science & Data Science student at the University of Sydney. I en
 
 ### Featured Projects
 
-🌊 [**FloodGuard**](https://github.com/HaleyyT/FloodGuard): Flood-awareness prototype for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, risk-scoring logic and map-based visualisation.
+🌊 [**FloodGuard**](https://github.com/HaleyyT/FloodGuard): Flood-awareness project for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, risk-scoring logic and map-based visualisation. Accepted for final judge and showcase at [Coding Fest 2026](https://www.sydney.edu.au/engineering/industry-community/partner-with-us/coding-fest.html)
 
 💙 [**Concurrent C Text Editor**](https://github.com/HaleyyT/text-editor): Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronisation with careful memory management.
 
