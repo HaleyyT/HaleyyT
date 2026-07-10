@@ -2,9 +2,9 @@
 
 I am a Computer Science & Data Science student at the University of Sydney. I enjoy building projects that combine reliable backend systems, data/ML pipelines, real-world user interfaces with clean architecture and testing.
 
-### Featured Projects (See more via 🌐 [**Portfolio**](https://haleytran.vercel.app/))
+### Featured Projects (See more via 🌐[**Portfolio**](https://haleytran.vercel.app/))
 
-🌊 [**FloodGuard**](https://github.com/HaleyyT/FloodGuard): Flood-awareness project for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, risk-scoring logic and map-based visualisation. Accepted for final judge and showcase at [Coding Fest 2026](https://www.sydney.edu.au/engineering/industry-community/partner-with-us/coding-fest.html)
+🌊 [**FloodGuard**](https://github.com/HaleyyT/FloodGuard) ([Demo](https://floodguard-project.vercel.app/)): Flood-awareness project for GWS suburbs using local weather observations, rainfall gauge data, river-context signals, risk-scoring logic and map-based visualisation. Accepted for final judge and showcase at [Coding Fest 2026](https://www.sydney.edu.au/engineering/industry-community/partner-with-us/coding-fest.html)
 
 💙 [**Concurrent C Text Editor**](https://github.com/HaleyyT/text-editor): Multi-client C text editor using FIFOs, Markdown operations, and client-server synchronisation with careful memory management.
 
