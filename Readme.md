@@ -1,6 +1,8 @@
 ## Hi, I’m Haley 👋
 
-I am a Computer Science & Data Science student at the University of Sydney. I enjoy building projects that combine reliable backend systems, data/ML pipelines, real-world user interfaces with clean architecture and testing. Currently I'm focusing on backend/ML application development, system design and algorithmic problem solving.
+I am a Computer Science & Data Science student at the University of Sydney. I enjoy building projects that combine reliable backend systems, data/ML pipelines, real-world user interfaces with clean architecture and testing.
+
+🌐 [**Portfolio**](https://haleytran.vercel.app/)
 
 ### Featured Projects
 
